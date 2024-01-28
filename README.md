@@ -2,7 +2,7 @@
 •	👀 I’m interested in collecting data analysis and reporting data.
 •	🌱 I’m currently learning Data Analytics: Advance Excel, Power BI, SQL, and TABLEAU
 •	💞️ I’m looking to collaborate on any projects
-•	📫 How to reach me click[](https://www.linkedin.com/in/elizabeth-tolulope-b13b76232)
+•	📫 How to reach me click(https://www.linkedin.com/in/elizabeth-tolulope-b13b76232)
 •	😄 Pronouns: She/Her
 •	⚡ Fun fact: A dedicated and self-motivated individual.
 <!---
