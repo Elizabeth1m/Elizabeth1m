@@ -1,5 +1,4 @@
 •	👋 Hi, I’m @Elizabeth1m
-  😄 My name is Abiola Elizabeth Tolulope
 •	👀 I’m interested in acquiring new skills in Tech
 •	🌱 I’m currently learning Data Analytics: Advance Excel, Power BI, SQL, and TABLEAU
 •	💞️ I’m looking to collaborate with Tech minded persons
