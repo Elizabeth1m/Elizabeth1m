@@ -2,7 +2,7 @@
 -	👀 I’m interested in acquiring new skills in Tech
 - 🌱 I’m currently learning Data Analytics: Advance Excel, Power BI, SQL, and TABLEAU
 -	💞️ I’m looking to collaborate with Tech minded persons
--	📫 How to reach me click[https://www.linkedin.com/in/elizabeth-tolulope-b13b76232](https://www.linkedin.com/in/elizabeth-tolulope-b13b76232)
+-	📫 How to reach me click [linkedin] (https://www.linkedin.com/in/elizabeth-tolulope-b13b76232)
 -	😄 Pronouns: She
 -	⚡ Fun fact A dedicated and self-motivated individual
 <!---
